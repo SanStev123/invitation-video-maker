@@ -1,2 +1,2 @@
 # invitation-video-maker
-Steve.AI invitation video maker helps to create video invites that will be not just communicate but celebrate special events!
+Steve.AI <a href="https://www.steve.ai/invitation-video-maker">invitation video maker</a> helps to create video invites that will be not just communicate but celebrate special events!
